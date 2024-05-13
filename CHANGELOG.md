@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.6.0
+
+### Minor Changes
+
+- [`6a793ef`](https://github.com/changesets/action/commit/6a793efe32e790ec650c56f70b94954dda268ac2) Thanks [@vtereshyn](https://github.com/vtereshyn)! - upgrade Node JS to v20
+
 ## 1.5.2
 
 ### Patch Changes
