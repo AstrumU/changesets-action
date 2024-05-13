@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.6.3
+
+### Patch Changes
+
+- [`5a0c2ae`](https://github.com/changesets/action/commit/5a0c2ae0f9e6c3640333fc7a8a90e527207d0f0b) Thanks [@vtereshyn](https://github.com/vtereshyn)! - dist folder should not be commited
+
 ## 1.6.2
 
 ### Patch Changes
