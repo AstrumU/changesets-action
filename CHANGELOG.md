@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.6.2
+
+### Patch Changes
+
+- [`8da4744`](https://github.com/changesets/action/commit/8da4744d9e0fa41b0b88a9840707e7f3a4e6ed48) Thanks [@vtereshyn](https://github.com/vtereshyn)! - release fails
+
 ## 1.6.1
 
 ### Patch Changes
